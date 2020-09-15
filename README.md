@@ -1,8 +1,11 @@
 Generative design with artifical life                                                          
 
 Author        : Alexander Guy
+
 Date          : 12/09/2020
+
 Version       : 1.1.2
+
 Software used : MATLAB 2019a, Solidworks 2018, 3D painter, 3D builder
 
 Instructions :
